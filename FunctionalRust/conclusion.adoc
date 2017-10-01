@@ -1,0 +1,3 @@
+== Questions?
+
+// NOTE: You'll get many compile-time errors when you start using Rust, but if you used Haskell, you'll be fine with that (except that you won't have your beloved monads). 

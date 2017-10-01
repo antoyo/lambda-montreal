@@ -1,0 +1,8 @@
+== Plan
+
+ * Basics of Rust
+ * Traits
+ * Generics
+ * Error handling
+ * Closures
+ * Iterators

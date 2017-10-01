@@ -1,0 +1,22 @@
+= Functional Programming in Rust
+:source-highlighter: pygments
+:pygments-style: monokai
+:imagesdir: ./images
+
+include::introduction.adoc[]
+
+include::basics.adoc[]
+
+include::traits.adoc[]
+
+include::generics.adoc[]
+
+include::errors.adoc[]
+
+include::closures.adoc[]
+
+include::iterators.adoc[]
+
+include::book.adoc[]
+
+include::conclusion.adoc[]
